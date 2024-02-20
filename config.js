@@ -55,7 +55,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'Jaden the bot'
+global.botname = 'Jaden'
 global.premium = 'true'
 global.packname = 'Any' 
 global.author = '@Jaden' 
